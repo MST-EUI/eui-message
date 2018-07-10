@@ -1,7 +1,7 @@
 {
-  "name": "eui-component-template",
-  "version": "0.1.1",
-  "description": "EUI component development template",
+  "name": "@mistong/eui-message",
+  "version": "0.1.0",
+  "description": "EUI message component",
   "main": "dist/index.js",
   "scripts": {
     "start": "eui server",
@@ -15,12 +15,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MST-EUI/EUI-component-tpl.git"
+    "url": "https://github.com/MST-EUI/eui-message.git"
   },
   "bugs": {
-    "url": "https://github.com/MST-EUI/EUI-component-tpl/issues"
+    "url": "https://github.com/MST-EUI/eui-message/issues"
   },
-  "homepage": "https://github.com/MST-EUI/EUI-component-tpl",
+  "homepage": "https://github.com/MST-EUI/eui-message",
   "keywords": [
     "react",
     "react-component",
